@@ -117,7 +117,7 @@ We don't teach theory alone. Every course comes with **real labs**, **hands-on c
     <img src="https://img.shields.io/badge/🌐_TCO_Academy-tco--academy.vercel.app-22C55E?style=for-the-badge&color=22C55E"/>
   </a>
   <a href="https://github.com/teamcyberops">
-    <img src="https://img.shields.io/badge/🔐_TeamCyberOps-github.com/teamcyberops-FF6600?style=for-the-badge&color=FF6600"/>
+    <img src="https://img.shields.io/badge/🔐_TeamCyberOps-teamcyberops.vercel.app-FF6600?style=for-the-badge&color=FF6600"/>
   </a>
   <a href="mailto:tcoacademy804@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-tcoacademy804@gmail.com-000000?style=for-the-badge"/>
